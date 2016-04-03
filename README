@@ -1,48 +1,49 @@
-+++ Do NOT use code from or use it in production environments.
-++ this engine is not updated since 2013 and isnt compatible with some of the current WebAPI's.
-this engine is written in time when the html5 spec wasnt released stable.
-Name: Equinox 2D
-Author: Arjan Kuijpers
-Version: V0.1(alpha)
-Release Date: 1/10/2013
-Category: Engine
-Homepage: http://arjankuijpers.nl
+### Do NOT use code from or use it in production environments.
+## this engine is not updated since 2013 and isnt compatible with some of the current WebAPI's. ++
+#this engine is written in time when the html5 spec wasnt released stable.
+
+###Name: Equinox 2D
+#Author: Arjan Kuijpers
+#Version: V0.1(alpha)
+#Release Date: 1/10/2013
+#Category: Engine
+#Homepage: http://arjankuijpers.nl
 
 ===========
-Description
+###Description
 ===========
 HTML5 Canvas (2D) game engine.
 
 
 ========
-Location
+###Location
 ========
 Eindhoven, The Netherlands / Helmond, The Netherlands
 
 
 ============
-Installation
+###Installation
 ============
 Include the files into your project.
 
 ====================
-Compatibility Issues
+###Compatibility Issues
 ====================
 Equinox has some unknown compatibility issues with Internet Explorer from Microsoft Corp.
 It's developed especially for google chrome and compatible with mozilla firefox.
 
 
 ===============
-Licensing/Legal
+###Licensing/Legal
 ===============
 
 
-Licensing: 
+#Licensing: 
 This Engine is available under the creative Commons license 3.0
 http://creativecommons.org/licenses/by-sa/3.0/nl/legalcode
 
 
-Disclaimer:
+###Disclaimer:
 
 Pleas read the following standard disclaimer:
 
