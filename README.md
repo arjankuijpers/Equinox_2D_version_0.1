@@ -1,5 +1,5 @@
 # Warning
-### this engine is not updated since 2013 and isnt compatible with some of the current WebAPI's.
+### this framework is not updated since 2013 and isnt compatible with some of the current WebAPI's.
 
 ### Name: Equinox 2D
 Author: Arjan Kuijpers
